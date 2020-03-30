@@ -376,7 +376,7 @@ print(np.percentile(iris_versicolor["petal_length"], 90))
 Conclusion:\
 1. Using sepal_length and sepal_width features, we can distinguish Setosa flowers from others\
 2. Petal_length and petal_wdth  are the most useful features to identify various flower types\
-3. Model: 
--petal_length <= 2, the specie is setosa
--petal length >2 and < 4.7, the specie is versicolor, with a 25% margin of error
--petal lenght > 4.7, the specie is virginica, again with a 25% margin of error
+3. Model: \
+-petal_length <= 2, the specie is setosa\
+-petal length >2 and < 4.7, the specie is versicolor, with a 25% margin of error\
+-petal lenght > 4.7, the specie is virginica, again with a 25% margin of error\
