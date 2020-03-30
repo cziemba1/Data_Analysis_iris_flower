@@ -3,7 +3,7 @@ Toy Dataset: Iris Dataset: [https://en.wikipedia.org/wiki/Iris_flower_data_set]\
 A simple dataset to learn the basics of different python libraries and data anaylisis.\
 3 flowers of Iris species\
 Objective: Classify a new flower as belonging to one of the 3 classes given the 4 features.\
-Features: petal width, petal length, sepal width, sepal length.\
+Features: petal width, petal length, sepal width, sepal length.
 
 
     
@@ -373,7 +373,7 @@ print(np.percentile(iris_versicolor["petal_length"], 90))
 ```python
 
 ```
-Conclusion:\
+Conclusion:
 1. Using sepal_length and sepal_width features, we can distinguish Setosa flowers from others\
 2. Petal_length and petal_wdth  are the most useful features to identify various flower types\
 3. Model: \
